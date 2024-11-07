@@ -1,6 +1,3 @@
-Sure, I'll complete the `README.md` file for you:
-
-```markdown
 # IVASTbot-GPT
 
 IVASTbot-GPT is a voice-based chatbot that uses speech-to-text (STT) and text-to-speech (TTS) technologies to interact with users. It leverages the OpenAI GPT-3.5 model for generating responses and supports Vietnamese language.
