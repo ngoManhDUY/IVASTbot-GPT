@@ -77,5 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Noisereduce](https://github.com/timsainb/noisereduce) for noise reduction.
 - [Librosa](https://librosa.org/) for additional audio processing.
 ```
-
-This `README.md` file provides an overview of your project, including its features, requirements, installation instructions, usage, file structure, license, and acknowledgements. You can customize it further based on your specific needs.
