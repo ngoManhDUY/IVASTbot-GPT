@@ -9,19 +9,6 @@ IVASTbot-GPT is a voice-based chatbot that uses speech-to-text (STT) and text-to
 - Convert text responses to speech using the gTTS library.
 - Supports Vietnamese language.
 
-## Requirements
-
-- Python 3.6+
-- `openai`
-- `gtts`
-- `pyaudio`
-- `wave` (standard library)
-- `datetime` (standard library)
-- `transformers`
-- `noisereduce`
-- `numpy`
-- `librosa`
-
 ## Installation
 
 1. Clone the repository:
