@@ -24,7 +24,7 @@ feature_extractor = AutoFeatureExtractor.from_pretrained("vinai/PhoWhisper-tiny"
 transcriber = pipeline("automatic-speech-recognition", model=model, tokenizer=tokenizer, feature_extractor=feature_extractor)
 
 # Manually set the API key
-api_key = "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"
+api_key = "API key"
 
 # Initialize the OpenAI client with the API key
 openai.api_key = api_key
