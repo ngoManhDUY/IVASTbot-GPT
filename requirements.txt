@@ -1,0 +1,7 @@
+torch==2.5.0
+openai==0.28.0
+gtts==2.5.3
+pyaudio==0.2.14
+transformers==4.46.2
+noisereduce==3.0.3
+numpy==2.0.2
