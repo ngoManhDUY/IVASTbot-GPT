@@ -28,10 +28,6 @@ IVASTbot-GPT is a voice-based chatbot that uses speech-to-text (STT) and text-to
    pip install -r requirements.txt
    ```
 
-4. Set up your OpenAI API key:
-   - Create a file named `api_key.txt` in the root directory of the project.
-   - Add your OpenAI API key to the `api_key.txt` file.
-
 ## Usage
 
 1. Run the main script:
