@@ -76,4 +76,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Hugging Face Transformers](https://huggingface.co/transformers/) for the ASR pipeline.
 - [Noisereduce](https://github.com/timsainb/noisereduce) for noise reduction.
 - [Librosa](https://librosa.org/) for additional audio processing.
-```
